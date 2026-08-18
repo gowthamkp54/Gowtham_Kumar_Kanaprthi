@@ -21,4 +21,7 @@ I care about correctness, performance, and understanding the trade-offs involved
 <hr>
 <h4>Technical Skills</h4>
 
-<h4>Programming Languages</h4>
+## Programming Languages
+
+```text
+Python  |  C++  |  Java  |  SQL
