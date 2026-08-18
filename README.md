@@ -92,11 +92,10 @@ PyTorch  |  TensorFlow  |  Pandas  |  NumPy
 
 ## Reach me
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL">
+<p>
+  <a href="mailto:gowthamkumarkanaparthi@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-29B6F6?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+  </a><a href="">
     <img src="https://img.shields.io/badge/LINKEDIN-29B6F6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
