@@ -23,19 +23,19 @@ I care about correctness, performance, and understanding the trade-offs involved
 
 ## Technical Skills
 
-<h5>## Programming Languages</h5>
+<h4>Programming Languages</h4>
 
 ```text
 Python  |  C++  |  Java  |  SQL
 ```
 
-## Backend and Systems
+<h4>Backend and Systems</h4>
 
 ```text
 FastAPI  |  REST APIs  |  Docker  |  Linux  |  Git
 ```
 
-## Machine Learning and Data
+<h4>Machine Learning and Data</h4>
 
 ```text
 PyTorch  |  TensorFlow  |  Pandas  |  NumPy
