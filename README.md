@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/profile.png" width="900" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=29B6F6&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi+I+am+Gautham+Kumar+Kanaparthi;Software+Engineer" />
 </p>
 
 ## About
