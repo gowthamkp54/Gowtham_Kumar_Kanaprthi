@@ -77,4 +77,5 @@ PyTorch  |  TensorFlow  |  Pandas  |  NumPy
 
 <a href="" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="45px">
+  LeetCode
 </a>
