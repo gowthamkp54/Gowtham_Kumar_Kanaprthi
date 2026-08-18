@@ -25,3 +25,9 @@ I care about correctness, performance, and understanding the trade-offs involved
 
 ```text
 Python  |  C++  |  Java  |  SQL
+```
+## Backend and Systems
+
+```text
+FastAPI  |  REST APIs  |  Docker  |  Linux  |  Git
+```
