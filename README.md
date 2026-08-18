@@ -23,7 +23,7 @@ I care about correctness, performance, and understanding the trade-offs involved
 
 ## Technical Skills
 
-## Programming Languages
+<h5>## Programming Languages</h5>
 
 ```text
 Python  |  C++  |  Java  |  SQL
