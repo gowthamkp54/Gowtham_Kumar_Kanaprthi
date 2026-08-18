@@ -75,7 +75,8 @@ PyTorch  |  TensorFlow  |  Pandas  |  NumPy
 
 ## Coding Profile
 
-<a href="" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="45px">
-</a>
-LeetCode
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/LEETCODE-800%2B%20PROBLEMS-orange?style=for-the-badge&logo=leetcode&logoColor=orange" />
+  </a>
+</p>
