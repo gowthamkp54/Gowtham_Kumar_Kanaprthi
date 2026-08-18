@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./images/profile.png" width="900" />
+</p>
+
 ## About
 
 I am a software engineer focused on building reliable backend systems, writing clear and maintainable code, and solving algorithmic problems efficiently.
