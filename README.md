@@ -74,3 +74,7 @@ PyTorch  |  TensorFlow  |  Pandas  |  NumPy
 <hr>
 
 ## Coding Profile
+
+<a href="" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="45px">
+</a>
