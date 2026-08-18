@@ -80,3 +80,23 @@ PyTorch  |  TensorFlow  |  Pandas  |  NumPy
     <img src="https://img.shields.io/badge/LEETCODE-100%2B%20PROBLEMS-orange?style=for-the-badge&logo=leetcode&logoColor=orange" />
   </a>
 </p>
+
+<hr>
+
+## Interests
+
+- Cars and automotive engineering
+- Astronomy and space technology
+- Learning how large-scale systems are built and maintained
+- Building simple systems that scale well
+
+## Reach me
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/EMAIL-29B6F6?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LINKEDIN-29B6F6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
