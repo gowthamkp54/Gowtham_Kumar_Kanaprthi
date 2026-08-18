@@ -11,6 +11,7 @@ I care about correctness, performance, and understanding the trade-offs involved
 - Actively exploring full-time software engineering opportunities
 
 <hr>
+
 ## Core Strengths
 
 - Strong foundations in Data Structures and Algorithms
@@ -19,6 +20,7 @@ I care about correctness, performance, and understanding the trade-offs involved
 - Applied machine learning for real-world problem solving
 
 <hr>
+
 ## Technical Skills
 
 ## Programming Languages
